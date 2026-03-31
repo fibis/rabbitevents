@@ -133,7 +133,7 @@ The correct serializer is now automatically selected based on the `content_type`
 - `application/x-protobuf` -> Protobuf Serializer
 
 ### Supported Laravel versions
-RabbitEvents now supports Laravel 10.0 or greater, including Laravel 13.
+RabbitEvents now supports Laravel 10.0 or greater.
 
 ### Architecture Decoupling
 Version 9.0 introduces a more abstract and extensible architecture.
